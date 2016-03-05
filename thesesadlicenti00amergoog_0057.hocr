@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thesesadlicenti00amergoog_0057.png"; bbox 0 0 3125 5317; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 228 1007 713 1150">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 228 1007 713 1150">
+     <span class='ocr_line' id='line_1_1' title="bbox 266 1007 682 1059; baseline 0 -4"><span class='ocrx_word' id='word_1_1' title='bbox 266 1007 498 1059; x_wconf 67' lang='lat' dir='ltr'><strong>Umvansms</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 514 1008 682 1059; x_wconf 69' lang='lat' dir='ltr'>CA&#39;ruoucA</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 228 1088 713 1150; baseline 0.004 -11"><span class='ocrx_word' id='word_1_3' title='bbox 228 1088 429 1150; x_wconf 64' lang='lat' dir='ltr'><strong>Annum,</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 476 1091 713 1141; x_wconf 66' lang='lat' dir='ltr'><strong>WAsfflncronn.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 251 1220 690 1490">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 251 1220 690 1490">
+     <span class='ocr_line' id='line_1_3' title="bbox 251 1220 690 1277; baseline 0.009 -6"><span class='ocrx_word' id='word_1_5' title='bbox 251 1222 281 1273; x_wconf 85' lang='lat' dir='ltr'><strong>S.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 303 1220 479 1275; x_wconf 72' lang='lat' dir='ltr'>FAcums</span> <span class='ocrx_word' id='word_1_7' title='bbox 492 1221 690 1277; x_wconf 64' lang='lat' dir='ltr'><strong>&#39;sanonum</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 429 1307 538 1371; baseline 0.009 -16"><span class='ocrx_word' id='word_1_8' title='bbox 429 1307 538 1371; x_wconf 79' lang='lat'>1890-91.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 439 1439 523 1490; baseline 0.024 -2"><span class='ocrx_word' id='word_1_9' title='bbox 439 1440 490 1489; x_wconf 79' lang='lat' dir='ltr'><strong>No.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 503 1439 523 1490; x_wconf 79' lang='lat'><strong>3.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1568 5317">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1568 5317">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1568 5317; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1568 5317; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

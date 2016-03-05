@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thesesadlicenti00amergoog_0037.png"; bbox 0 0 3125 5317; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 214 1050 679 1188">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 214 1050 679 1188">
+     <span class='ocr_line' id='line_1_1' title="bbox 246 1050 648 1103; baseline 0.002 -5"><span class='ocrx_word' id='word_1_1' title='bbox 246 1050 458 1101; x_wconf 67' lang='lat' dir='ltr'><strong>l&#39;mvsnsms</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 474 1052 648 1103; x_wconf 67' lang='lat' dir='ltr'>CATuoucA</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 214 1131 679 1188; baseline 0 -5"><span class='ocrx_word' id='word_1_3' title='bbox 214 1131 381 1188; x_wconf 62' lang='lat' dir='ltr'><strong>Annum.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 434 1136 679 1183; x_wconf 66' lang='lat' dir='ltr'><strong>WAsufflo&#39;roun.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 230 1266 656 1535">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 230 1266 656 1535">
+     <span class='ocr_line' id='line_1_3' title="bbox 230 1266 656 1320; baseline 0.012 -5"><span class='ocrx_word' id='word_1_5' title='bbox 230 1266 253 1315; x_wconf 83' lang='grc'><strong>5.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 271 1266 434 1318; x_wconf 69' lang='lat' dir='ltr'>FAcrL&#39;rAs</span> <span class='ocrx_word' id='word_1_7' title='bbox 451 1266 656 1320; x_wconf 65' lang='lat' dir='ltr'><strong>Tussonoom.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 386 1352 499 1415; baseline 0.018 -17"><span class='ocrx_word' id='word_1_8' title='bbox 386 1352 499 1415; x_wconf 49' lang='lat'>189091.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 396 1484 485 1535; baseline 0.022 -2"><span class='ocrx_word' id='word_1_9' title='bbox 396 1484 450 1535; x_wconf 90' lang='lat' dir='ltr'><strong>No.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 463 1485 485 1535; x_wconf 83' lang='lat'><strong>2.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1568 5317">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1568 5317">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1568 5317; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1568 5317; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
